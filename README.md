@@ -6,4 +6,4 @@ Builds a spline function and a Lagrange polynomial of degree 10 from the obtaine
 
 Compares the values of the spline function and the polynomial with the exact value of the function.
 
-quanc.h and spline.h are library programs
+quanc8.h and spline.h are library programs
